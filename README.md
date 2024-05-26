@@ -1,4 +1,4 @@
-# unfv_2024_admi_scr
+# Ingresantes UNFV Admision 2024 - Puntaje Minimo y Maximo
 Webscraping UNFV Admision 2024. Codigo preliminar.
 
 Se hizo webscraping a los resultados de Admision a la UNFV 2024. 
