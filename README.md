@@ -19,3 +19,7 @@ Recordar que debes FILTRAR por Escuela Profesional y seleccionar la que te inter
 1. El programa muere con error?. Calma. **Solo que ya no encontró un postulante con el codigo**. Lo que significa que ahi termina.
 2. CSV? Como lo abro?. Calma. Lo que debes  hacer es abrir con Excel y guardarlo como archivo de Excel. Luego procedes a filtrar.
 3. No puedo filtrar los puntajes?. Calma. Solo necesitas usar la opcion de Excel llamada ***BUSCAR Y REEMPLAZAR"**. Reemplaza la coma ( , ) por el punto ( . ). Y listo
+
+#TODOLIST
+1. Intentar mejorar el codigo con try y except para evitar los errores.
+2. Usar una busqueda GLOBAL desde el codigo 00001 hasta el codigo final posible segun la cantidad de postulantes
