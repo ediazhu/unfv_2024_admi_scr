@@ -20,6 +20,8 @@ Recordar que debes FILTRAR por Escuela Profesional y seleccionar la que te inter
 2. CSV? Como lo abro?. Calma. Lo que debes  hacer es abrir con Excel y guardarlo como archivo de Excel. Luego procedes a filtrar.
 3. No puedo filtrar los puntajes?. Calma. Solo necesitas usar la opcion de Excel llamada ***BUSCAR Y REEMPLAZAR"**. Reemplaza la coma ( , ) por el punto ( . ). Y listo
 
-#TODOLIST
+# TODOLIST
 1. Intentar mejorar el codigo con try y except para evitar los errores.
 2. Usar una busqueda GLOBAL desde el codigo 00001 hasta el codigo final posible segun la cantidad de postulantes
+
+Esta aplicación está basada en la idea de [Scraping Admission UNFV](https://github.com/jhonverde/scraping-admission-unfv) . El autor se encuentra en el mismo link.
